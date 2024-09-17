@@ -99,3 +99,6 @@ Just like in C++, multiple variables of the same type can be declared at once.
 
 int total, count, temp, result;
 
+
+
+# September 16th:
